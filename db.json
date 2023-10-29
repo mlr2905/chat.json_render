@@ -36,47 +36,5 @@
       "time": "13:06:28:512",
       "id": 6
     }
-  ],
-  "todos": [
-    {
-      "id": 1,
-      "title": "delectus aut autem!!",
-      "completed": "Yes"
-    },
-    {
-      "title": "et porro tempora",
-      "completed": false,
-      "id": 2
-    },
-    {
-      "id": 3,
-      "title": "fugiat veniam minus",
-      "completed": false
-    },
-    {
-      "id": 4,
-      "title": "et porro tempora!",
-      "completed": "false"
-    },
-    {
-      "title": "run marathon",
-      "completed": true,
-      "id": 22
-    },
-    {
-      "title": "learn js",
-      "completed": false,
-      "id": 25
-    },
-    {
-      "title": "swim ",
-      "completed": true,
-      "id": 27
-    },
-    {
-      "title": "run",
-      "completed": "Yes",
-      "id": 28
-    }
   ]
 }
