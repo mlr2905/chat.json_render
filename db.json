@@ -1,40 +1,38 @@
-{
-  "chats1": [
-    {
-      "user": "bot",
-      "text": "Welcome to the chat",
-      "time": "00:00:00",
-      "id": 0
-    }
-  ]
-}
-{
-  "chats2": [
-    {
-      "user": "bot",
-      "text": "Welcome to the chat",
-      "time": "00:00:00",
-      "id": 0
-    }
-  ]
-}
-{
-  "chats3": [
-    {
-      "user": "bot",
-      "text": "Welcome to the chat",
-      "time": "00:00:00",
-      "id": 0
-    }
-  ]
-}
-{
-  "chats4": [
-    {
-      "user": "bot",
-      "text": "Welcome to the chat",
-      "time": "00:00:00",
-      "id": 0
-    }
-  ]
-}
+
+  {
+    "chats1": [
+      {
+        "user": "bot",
+        "text": "Welcome to the chat",
+        "time": "00:00:00",
+        "id": 0
+      }
+    ],
+    
+    "chats2": [
+      {
+        "user": "bot",
+        "text": "Welcome to the chat",
+        "time": "00:00:00",
+        "id": 0
+      }
+    ],
+
+    "chats3": [
+      {
+        "user": "bot",
+        "text": "Welcome to the chat",
+        "time": "00:00:00",
+        "id": 0
+      }
+    ],
+
+    "chats4": [
+      {
+        "user": "bot",
+        "text": "Welcome to the chat",
+        "time": "00:00:00",
+        "id": 0
+      }
+    ]
+  }
