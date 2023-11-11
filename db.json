@@ -1,36 +1,36 @@
 
   {
-    "chats1": [
+    "chat1": [
       {
         "user": "bot",
-        "text": "Welcome to the chat",
+        "text": "Welcome to the chat-1",
         "time": "00:00:00",
         "id": 0
       }
     ],
     
-    "chats2": [
+    "chat2": [
       {
         "user": "bot",
-        "text": "Welcome to the chat",
+        "text": "Welcome to the chat-2",
         "time": "00:00:00",
         "id": 0
       }
     ],
 
-    "chats3": [
+    "chat3": [
       {
         "user": "bot",
-        "text": "Welcome to the chat",
+        "text": "Welcome to the chat-3",
         "time": "00:00:00",
         "id": 0
       }
     ],
 
-    "chats4": [
+    "chat4": [
       {
         "user": "bot",
-        "text": "Welcome to the chat",
+        "text": "Welcome to the chat-4",
         "time": "00:00:00",
         "id": 0
       }
