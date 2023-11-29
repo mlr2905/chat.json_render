@@ -48,7 +48,7 @@
         
       }
     ],
-      "autoincrement": [
+      "auto_id": [
       {
        
         "id": 0 
